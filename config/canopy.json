@@ -1,17 +1,14 @@
 {
   "prod": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["Memória Guarda Municipal"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app/",
+    "collection": "https://memoriagm.vercel.app",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json"    
+         
     ],
     "metadata": ["Data", "Tipo", "Autoria"]
   },
@@ -22,12 +19,9 @@
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app",
+    "collection": "https://memoriagm.vercel.app/10/manifest.json",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json" 
+      
     ],
     "metadata": ["Data", "Tipo", "Autoria"]
   }
